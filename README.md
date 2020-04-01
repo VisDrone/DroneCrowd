@@ -11,7 +11,7 @@ Since existing crowd counting datasets merely focus on crowd counting in static 
 ### ECCV2020 Challenge
 
 
-DroneCrowd
+DroneCrowd BaiduYun | GoogleDrive
 
 
 
