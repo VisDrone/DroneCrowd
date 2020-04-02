@@ -12,10 +12,9 @@ Since existing crowd counting datasets merely focus on crowd counting in static 
 
 The VisDrone 2020 Crowd Counting Challenge requires participating algorithms to count persons in each frame. The challenge will provide 112 challenging sequences, including 82 video sequences for training (2,420 frames in total), and 30 sequences for testing (900 frames in total), which are available on the download page. We manually annotate persons with points in each video frame. 
 
-DroneCrowd BaiduYun | GoogleDrive
+DroneCrowd (1.03 GB): [BaiduYun](https://pan.baidu.com/share/init?surl=llJZJMi2L5oUQvj31iBlfg)(code: h0j8)| GoogleDrive
 
-### DroneCrowd (FULL)
-
+### DroneCrowd (Full Version)
 
 
 ## Citation
