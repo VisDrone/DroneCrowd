@@ -6,7 +6,7 @@
 
 Since existing crowd counting datasets merely focus on crowd counting in static cameras rather than density map estimation, counting and tracking in crowds on drones, we have collected a new large-scale drone-based dataset, DroneCrowd, formed by 112 video clips with 33,600 high resolution frames (i.e., 1920x1080) captured in 70 different scenarios. With intensive amount of effort, our dataset provides 20,800 people trajectories with 4.8 million head annotations and several video-level attributes in sequences.
 
-## Datase
+## Dataset
 
 ### ECCV2020 Challenge
 
@@ -15,6 +15,11 @@ The VisDrone 2020 Crowd Counting Challenge requires participating algorithms to 
 DroneCrowd (1.03 GB): [BaiduYun](https://pan.baidu.com/share/init?surl=llJZJMi2L5oUQvj31iBlfg)(code: h0j8)| [GoogleDrive](https://drive.google.com/file/d/1HY3V4QObrVjzXUxL_J86oxn2bi7FMUgd/view?usp=sharing) 
 
 ### DroneCrowd (Full Version)
+
+
+## Code
+
+Space-Time Multi-Scale Attention Network.
 
 
 ## Citation
