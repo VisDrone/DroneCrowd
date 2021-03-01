@@ -1,5 +1,5 @@
 # DroneCrowd
-[Paper](https://arxiv.org/pdf/1912.01811.pdf)
+Paper
 
 ## Introduction
 ![VisDrone](https://github.com/VisDrone/DroneCrowd/blob/master/sample.png)
@@ -26,22 +26,5 @@ Space-Time Multi-Scale Attention Network [code](https://github.com/VisDrone/Dron
 
 Please cite this paper if you want to use it in your work.
 ```
-@article{DBLP:journals/corr/abs-1912-01811,
-  author    = {Longyin Wen and
-               Dawei Du and
-               Pengfei Zhu and
-               Qinghua Hu and
-               Qilong Wang and
-               Liefeng Bo and
-               Siwei Lyu},
-  title     = {Drone-based Joint Density Map Estimation, Localization and Tracking
-               with Space-Time Multi-Scale Attention Network},
-  journal   = {CoRR},
-  volume    = {abs/1912.01811},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1912.01811},
-  archivePrefix = {arXiv},
-  eprint    = {1912.01811},
-  timestamp = {Thu, 02 Jan 2020 18:08:18 +0100},
-}
+
 ```
