@@ -26,5 +26,16 @@ DroneCrowd (1.03 GB): [BaiduYun](https://pan.baidu.com/share/init?surl=llJZJMi2L
 
 Please cite this paper if you want to use it in your work.
 ```
-
+@inproceedings{dronecrowd_cvpr2021,
+  author    = {Longyin Wen and
+               Dawei Du and
+               Pengfei Zhu and
+               Qinghua Hu and
+               Qilong Wang and
+               Liefeng Bo and
+               Siwei Lyu},
+  title     = {Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark},
+  booktitle = {CVPR},
+  year      = {2021}
+}
 ```
