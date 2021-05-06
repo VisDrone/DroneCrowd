@@ -122,38 +122,5 @@ If you use the STNNet method or the DroneCrowd dataset, please cite our papers. 
   booktitle = {CVPR},
   year      = {2021}
 }
-```
 
-```
-@inproceedings{dronecrowd_eccvw2020,
-  author    = {Dawei Du and
-               Longyin Wen and
-               Pengfei Zhu and
-               Heng Fan and
-               Qinghua Hu and
-               Haibin Ling and
-               Mubarak Shah and
-               Junwen Pan},
-  title     = {VisDrone-CC2020: The Vision Meets Drone Crowd Counting Challenge Results},
-  booktitle = {ECCVW},
-  volume    = {12538},
-  pages     = {675--691},
-  year      = {2020}
-}
-```
-
-```
-@article{dronecrowd_arxiv2019,
-  author    = {Longyin Wen and
-               Dawei Du and
-               Pengfei Zhu and
-               Qinghua Hu and
-               Qilong Wang and
-               Liefeng Bo and
-               Siwei Lyu},
-  title     = {Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network},
-  journal   = {CoRR},
-  volume    = {abs/1912.01811},
-  year      = {2019}
-}
 ```
