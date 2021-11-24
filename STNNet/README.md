@@ -1,6 +1,6 @@
 # Space-Time Neighbor-Aware Network (STNNet-pytorch)
 
-This is the PyTorch version repository for [Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark](https://arxiv.org/abs/1912.01811).
+This is the PyTorch version repository for [Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_Detection_Tracking_and_Counting_Meets_Drones_in_Crowds_A_Benchmark_CVPR_2021_paper.pdf).
 
 ## Prerequisites
 We use Anaconda as the environment. The code was tested on Ubuntu 18.04, with Python 3.6, CUDA 10.2 and PyTorch v1.6.0. NVIDIA GPUs are needed for both training and testing.
